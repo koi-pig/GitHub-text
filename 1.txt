@@ -2,11 +2,4 @@
 hello git
 hello git
 hello git
-hello git master修改
-=======
-hello word
-hello word
-hello word
-hello word qq修改
->>>>>>> qq
-//已经pull拉取
+hello git 
